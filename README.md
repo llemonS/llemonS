@@ -13,7 +13,7 @@ Passionate about programming and working with various technologies, here's a gli
 ## - Misc:
 ![Docker](https://img.icons8.com/color/48/000000/docker.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![Bash](https://img.icons8.com/color/48/000000/bash.png) ![Linux](https://img.icons8.com/color/48/000000/linux.png)
 
-## - Favorite Code Editor:
+## - Code Editor:
 ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 
 Feel free to explore my repositories and projects, reach out if you'd like to develop something together.
