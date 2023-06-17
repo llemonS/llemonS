@@ -11,7 +11,7 @@ Passionate about programming and working with various technologies, here's a gli
 ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 
 ## - Misc:
-![Docker](https://img.icons8.com/color/48/000000/docker.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![Linux](https://img.icons8.com/color/48/000000/linux.png)
+![Docker](https://img.icons8.com/color/48/000000/docker.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![Bash](https://img.icons8.com/color/48/000000/bash.png) ![Linux](https://img.icons8.com/color/48/000000/linux.png)
 
 ## - Favorite Code Editor:
 ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
