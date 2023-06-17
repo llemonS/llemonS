@@ -4,7 +4,7 @@
 
 Passionate about programming and love working with various technologies. Here's a glimpse of my skills and favorite tools:
 
-## - Programming:
+## - Stack:
 ![Python](https://img.icons8.com/color/48/000000/python.png) ![Django](https://img.icons8.com/color/48/000000/django.png) ![Flask](https://img.icons8.com/?size=50&id=MHcMYTljfKOr&format=png)![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![React](https://img.icons8.com/?size=50&id=122637&format=png) 
 
 ## - Databases:
