@@ -13,7 +13,7 @@ Passionate about programming and love working with various technologies. Here's 
 ## - Misc:
 ![Docker](https://img.icons8.com/color/48/000000/docker.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![Linux](https://img.icons8.com/color/48/000000/linux.png)
 
-## Favorite Working Tools:
+## - Favorite Working Tools:
 ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 
 Feel free to explore my repositories and projects, reach out if you'd like to develop something together.
